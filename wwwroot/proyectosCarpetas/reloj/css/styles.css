@@ -1,0 +1,29 @@
+#map{
+  width: 500px;
+  height: 500px;
+  background-image: url("../img/Mapa2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 400px;
+  background-position: -50px;
+  text-align: center;
+}
+#russia{
+  margin-top: 225px;
+  margin-left: 3em;
+  vertical-align: text-bottom;
+}
+#uk{
+  margin-top: -500px;
+  margin-left: -25em;
+  vertical-align: text-bottom;
+}
+#spain{
+  margin-top: 60px;
+  margin-left: -28em;
+  vertical-align: text-bottom;
+}
+
+#map input{
+  transform: scale(1);
+}

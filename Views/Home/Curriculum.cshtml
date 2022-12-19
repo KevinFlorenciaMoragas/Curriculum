@@ -1,0 +1,26 @@
+﻿<section class="row">
+	<div class="col-12 col-sm-12 col-md-12 col-lg-12 text-center">
+		<h1>Curriculum Kevin Florencia Moragas</h1>
+	</div>
+
+<div class="container">
+	<div class="row row-cols-1 row-cols-md-3 offset-lg-5">
+		@foreach (var curriculum in ViewBag.Vcurriculum)
+		{
+			<div class="col">
+				<div class="card h-100">
+					<img src="@curriculum.imageURL" class="card-img-top" alt="imagen proyecto" />
+					<div class="card-body">
+						<h5 class="card-title">@curriculum.name</h5>
+						<p class="card-text">@curriculum.description</p>
+					</div>
+					<div class="card-footer">
+						<a class="btn btn-primary" href="/descargas/curriculum.pdf" target="_blank"
+                   rel="noopener noreferrer" download="curriculum.pdf">Download</a>
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+</div>
+</section>

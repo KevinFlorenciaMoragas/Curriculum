@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Funciones Facilonas</h1>
+    </header>
+    <section class="flex-container">
+        <section class="flex-textos">
+    <h1>Comparador de textos</h1>
+    <input id="IN1" onkeyup="compararTextos()">
+    <b id="igual">==</b>
+    <input id="IN2" onkeyup="compararTextos()">
+        </section>
+        <section class="flex-palabras">
+    <h1>Contador palabras</h1>
+    <input id="contador" onkeyup="contarLetras()">
+    <b>=</b>
+    <input id="contadorResultado" onchange="contarLetras()" disabled>
+</section>
+<section class="flex-raiz">
+    <h1>Raiz Cuadrada</h1>
+    <input type ="number" id="inRaizCuadrada" onkeyup="square()">
+    <b>=</b>
+    <input id="resultadoRaiz" onchange="square()" disabled>
+</section>
+<section class="flex-concat">
+    <h1>Concatena textos</h1>
+    <input id="concat1" onkeyup="concatText()">
+    <b>+</b>
+    <input id="concat2" onkeyup="concatText()">
+    <b>=</b>
+    <input id="concat3" onchange="concatText()" disabled>
+   </section>
+   <section class="flex-color">
+    <h1>Cambio de color</h1>
+    <form>
+        <input type="radio" id="verde" name="color" onclick = "cambiarColor()" value="verde">
+        <label for ="verde">Verde</label>
+        <br>
+        <input type="radio" id="azul" name="color" onclick = "cambiarColor()" value="azul">
+        <label for ="azul">Azul</label>
+        <br>
+        <input type="radio" id="rojo" name="color"onclick = "cambiarColor()"  value="rojo">
+        <label for ="rojo">rojo</label>  
+        <br>
+        <b id="colorTexto"> Cambio de color </b>
+    </form>
+   </section>
+    <section class="flex-foto">
+    <h1>Cambio de Tamaño</h1>
+    <h3>Altura</h3>
+    <input type ="number" id="altura" onkeyup="cambiarTamaño()">
+    <br>
+    
+    <h3>Anchura</h3>
+    <input type ="number" id="anchura" onkeyup="cambiarTamaño()">
+    <br>
+    <img id = "myImage"src="images/image.jpg" height="40px" width="40px">
+    </section>
+    <section class = "flex-adivina">
+        <h1>Adivina la palabra</h1>
+        <input id ="adivinaPalabra" onkeyup="adivinarLetras()">
+        <b>Has acertado </b>
+        <input id="contadorLetras" onchange="adivinarLetras()">
+        <b>letras</b>
+    </section>
+</section>
+<footer> 2DAW Kevin Florencia</footer>
+</body>
+<script src="js/script.js"></script>
+
+</html>

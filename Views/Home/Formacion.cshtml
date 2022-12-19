@@ -1,0 +1,22 @@
+﻿
+@{
+    <h2>Formacion</h2>
+    <div class="container">
+	<div class="row row-cols-1 row-cols-md-3 g-4">
+		@foreach (var formacion in ViewBag.Vformacion)
+		{
+			<div class="col">
+				<div class="card h-100">
+					<img src="@formacion.imageUrl" class="card-img-top" alt="imagen proyecto" />
+					<div class="card-body">
+						<h5 class="card-title">@formacion.name</h5>
+						<h6 class="card-title">@formacion.center </h6>
+						<h6 class="card-title">@formacion.date </h6>
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+</div>
+}
+

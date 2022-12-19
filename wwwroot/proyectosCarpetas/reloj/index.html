@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/styles.css">
+	<title>Document</title>
+</head>
+
+<body>
+	<canvas id="canvas" width="400px" height="400px"></canvas>
+	<h1>Formato de fecha</h1>
+	<input type="radio" id="numeros" name="horas" onclick="seleccionarFecha()" value="numeros">
+	<label for="numeros">DD/MM/YYYY</label>
+	<br>
+	<input type="radio" id="completo" name="horas" onclick="seleccionarFecha()" value="completo">
+	<label for="completo">DIA-MES-AÑO </label>
+	<br>
+	<input type="radio" id="simplificado" name="horas" onclick="seleccionarFecha()" value="simplificado">
+	<label for="simplificado">DIA-MES-AÑO (SIMPLIFICADO)</label>
+	<br>
+	<h1>Formato de hora</h1>
+	<input type="radio" id="12h" name="formato" onclick="seleccionarHora()" value="12h">
+	<label for="12h">12H </label>
+	<br>
+	<input type="radio" id="24h" name="formato" onclick="seleccionarHora()" value="24h">
+	<label for="24h">24H</label>
+	<br>
+	<canvas id="canvasDos" width="450px" height="100px"></canvas>
+	<canvas id="canvasTres" width="450px" height="100px"></canvas>
+	<br>
+	<section id="c3" class="col-lg-12">
+		
+		<section id="map" class="row">
+			<p class="col-lg"><input type="radio" name="huso" id="russia" onclick="husoHorario()"></p>
+			<p class="col-lg"><input type="radio" name="huso" id="uk" onclick="husoHorario()"></p> 
+			<p class="col-lg"><input type="radio" name="huso" id="spain" onclick="husoHorario()"></p> 
+			<p class="col-lg"><input type="radio" name="huso" id="Honolulu" onclick="husoHorario()"></p> 
+			</p>
+		</section>
+	</section>
+
+	<script src="js/script.js"></script>
+
+</body>
+
+</html>

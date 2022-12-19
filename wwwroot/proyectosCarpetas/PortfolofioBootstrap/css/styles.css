@@ -1,0 +1,56 @@
+html{
+    scroll-behavior: smooth;    
+}
+body{
+    background-color: #302B28; 
+    color:#FDFFFC;
+    font-family:serif;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.nav{
+    background-color: #BB2232;
+    font-size: 2em;
+    border-radius: 10px;
+}
+.nav li a{
+    color: #FDFFFC;
+}
+
+.mb-3{
+    background-color: #B6B2AB;
+}
+footer{
+    background-color: #BB2232;
+}
+h1{
+    font-size: 6em;
+}
+p{
+    font-size:3em;
+}
+.imgtrabajo{
+        padding: 0.5em;
+        transition: all .3s ease-in-out;
+    
+}
+
+.imgtrabajo:hover {
+    transform: scale(1.2);
+}
+header{
+    top: 0;
+    position: sticky;
+}
+footer{
+    margin-top: 1em;
+}
+#contacto{
+    padding-top: 4em;
+}
+#article{
+    padding-top: 4em;
+}
+#trabajosTodo{
+    padding-top: 4em;
+}

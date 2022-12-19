@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\P1-ASP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\P1-ASP.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\css\\MyStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\MyStyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\asp.jpg",
+      "PackagePath": "staticwebassets\\images\\asp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\asp.png",
+      "PackagePath": "staticwebassets\\images\\asp.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\balmes.png",
+      "PackagePath": "staticwebassets\\images\\balmes.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\comic.jpg",
+      "PackagePath": "staticwebassets\\images\\comic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\concurso.jpg",
+      "PackagePath": "staticwebassets\\images\\concurso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\cshard.png",
+      "PackagePath": "staticwebassets\\images\\cshard.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\curriculum.png",
+      "PackagePath": "staticwebassets\\images\\curriculum.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\flor.jpg",
+      "PackagePath": "staticwebassets\\images\\flor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\formacion1.jpg",
+      "PackagePath": "staticwebassets\\images\\formacion1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\formacion2.jpg",
+      "PackagePath": "staticwebassets\\images\\formacion2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\formacion3.jpg",
+      "PackagePath": "staticwebassets\\images\\formacion3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\formacion4.jpg",
+      "PackagePath": "staticwebassets\\images\\formacion4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\funciones.jpg",
+      "PackagePath": "staticwebassets\\images\\funciones.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\java.png",
+      "PackagePath": "staticwebassets\\images\\java.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\js.png",
+      "PackagePath": "staticwebassets\\images\\js.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\monlau.png",
+      "PackagePath": "staticwebassets\\images\\monlau.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\pato.jpg",
+      "PackagePath": "staticwebassets\\images\\pato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\php.png",
+      "PackagePath": "staticwebassets\\images\\php.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\porfolio.jpg",
+      "PackagePath": "staticwebassets\\images\\porfolio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\reloj.jpg",
+      "PackagePath": "staticwebassets\\images\\reloj.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\images\\robot.jpg",
+      "PackagePath": "staticwebassets\\images\\robot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\PortfolofioBootstrap\\css\\styles.css",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\PortfolofioBootstrap\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 1.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 2.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 3.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 4.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 5.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 6.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\PortfolofioBootstrap\\img\\pagina 6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\PortfolofioBootstrap\\index.html",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\PortfolofioBootstrap\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\bladerunner.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\bladerunner.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\castigador.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\castigador.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\checkin.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\checkin.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\contacto.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\contacto.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\css\\styles2.css",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\css\\styles2.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\css\\stylesChat.css",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\css\\stylesChat.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\db.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\db.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\dune.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\dune.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\foro.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\foro.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\BromaAsesina.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\BromaAsesina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\asombroso_spiderman_5_2.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\asombroso_spiderman_5_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\batman-pelicula.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\batman-pelicula.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\batman.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\batman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\batmanSeccion.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\batmanSeccion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\blade_runner_2019_2.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\blade_runner_2019_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\caballero-oscuro.png",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\caballero-oscuro.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\capitan.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\capitan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\capitan_america_3.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\capitan_america_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\castigador.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\castigador.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\dosCaras.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\dosCaras.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\dune_la_casa_atreides.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\dune_la_casa_atreides.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\joker.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\joker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\largoHalloween.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\largoHalloween.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\logo.png",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\spiderman.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\spiderman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\img\\vengadoresSalvajes.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\img\\vengadoresSalvajes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\index.html",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\js\\chat.js",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\js\\validations.js",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\js\\validations.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\js\\video.js",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\js\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\login.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\login.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\php\\MySQLdb.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\php\\MySQLdb.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\php\\conexion.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\php\\conexion.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\php\\init.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\php\\init.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\php\\sessionLogin.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\php\\sessionLogin.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\seccionBatman.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\seccionBatman.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\seccionCapitan.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\seccionCapitan.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\comicote\\spiderman.php",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\comicote\\spiderman.php"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\funciones\\css\\style.css",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\funciones\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\funciones\\images\\04A.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\funciones\\images\\04A.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\funciones\\index.html",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\funciones\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\funciones\\js\\script.js",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\funciones\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\preguntas\\css\\style.css",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\preguntas\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\preguntas\\index.html",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\preguntas\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\preguntas\\js\\script.js",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\preguntas\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\reloj\\css\\styles.css",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\reloj\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\reloj\\img\\Mapa2.png",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\reloj\\img\\Mapa2.png"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\reloj\\img\\mapa.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\reloj\\img\\mapa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\reloj\\img\\mapa2.jpg",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\reloj\\img\\mapa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\reloj\\index.html",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\reloj\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kevin\\OneDrive - Centre d'Estudis Monlau\\2DAW\\M7\\P1-ASP\\wwwroot\\proyectosCarpetas\\reloj\\js\\script.js",
+      "PackagePath": "staticwebassets\\proyectosCarpetas\\reloj\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.P1-ASP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.P1-ASP.props",
+      "PackagePath": "build\\P1-ASP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.P1-ASP.props",
+      "PackagePath": "buildMultiTargeting\\P1-ASP.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.P1-ASP.props",
+      "PackagePath": "buildTransitive\\P1-ASP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

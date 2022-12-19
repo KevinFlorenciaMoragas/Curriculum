@@ -1,0 +1,46 @@
+body{
+    margin-left: 1em;
+    margin-right: 1em;
+    background-color: #f7f7f7;
+}
+#resumen{
+    text-align: center;
+}
+#precioResumen{
+    text-align: center;
+    font-size: 2em;
+    color: red;
+}
+#textoDescripcion{
+    text-align: justify;
+}
+#autores{
+    color: red;
+}
+.card-text{
+    text-align: left;
+    
+}
+#capitanSeccion{
+    background-image: url("../img/capitan.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 88vh;
+}
+.formulario{
+	justify-content: center;
+	margin-top: 8em;
+}
+#contenidoVillanos{
+    text-align: justify;
+}
+video{
+    display: block;
+    margin: auto;
+}
+header{
+    background-color: #FF0000;
+}
+footer{
+    background-color: #FF0000;
+}
